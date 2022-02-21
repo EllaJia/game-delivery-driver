@@ -1,1 +1,13 @@
-A 2D game delivering packages to the destination based on Unity and C#
+This game was designed based on Unity and C#
+
+Goal: delivering packages to the destination
+
+Objects: pink square - package
+         blue square - customer(destination)
+         yellow square - speed up zone
+         other - blocks(block your way and slow down your speed)
+
+Control: Up - Move forward
+         Down - Move reverse
+         Left - Turn left
+         Right - Turn right
